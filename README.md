@@ -1,5 +1,3 @@
-Here is a sample README for the Hangman game in Python:
-
 # Hangman Game
 
 This is a simple command line Hangman game implemented in Python.
